@@ -15,7 +15,6 @@
 #  License along with SniperCallsBot. If not, see <https://www.gnu.org/licenses/>.
 import copy
 import os
-import os
 import shutil
 
 import src.constants as constants
