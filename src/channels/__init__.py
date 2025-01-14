@@ -20,6 +20,8 @@ from src.channels.SniperCallsbot_channel import (
     SniperCallsBotChannelConsumer,
     SniperCallsBotChannelProducer,
     SniperCallsBotChannel,
+    SniperCallsBotChannel,
+
 )
 
 __all__ = [
