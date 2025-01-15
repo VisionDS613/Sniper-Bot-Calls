@@ -16,4 +16,3 @@
 
 class DisabledError(Exception):
     pass
-    pass
